@@ -17,6 +17,5 @@ if (system.args.length < 0) {
 			phantom.exit();
 		}		
 		console.log('Connected...');
-		
 	});
 }
